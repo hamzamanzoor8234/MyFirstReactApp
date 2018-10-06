@@ -8,8 +8,8 @@ const SideNav = () => {
             <li><a className="subheader" href="#!">Subheader</a></li>
             <li><a className="waves-effect" href="#!">Third Link With Waves</a></li>
         </ul>
-        <a href="!#" data-target="slide-out" class="sidenav-trigger">
-            <i class="material-icons">
+        <a href="!#" data-target="slide-out" class="sidenav-trigger" id='sideNavT'>
+            <i class="material-icons medium">
                 menu
                 </i>
         </a>
